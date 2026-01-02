@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rophah
-- 👀 I’m interested in web development and cloud engineering
-- 🌱 I’m currently learning more on React.js 
-- 💞️ I’m looking to collaborate to create a PHP/Laravel project
+- 👀 I’m interested in Data analysis and science,web development and cloud engineering
+- 🌱 I’m currently learning more on Machine Learning with Tree-Based Models in Python 
+- 💞️ I’m looking to collaborate to create a Data analysis and science project
 - 📫 You can reach me through my email address: aderafat@gmail.com
 
 <!---
